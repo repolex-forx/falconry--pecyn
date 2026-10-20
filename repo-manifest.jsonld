@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/falconry/pecyn/commit/fef9333136c717855499f90ec0180d6a75059a9d",
       "git:hexsha": "fef9333136c717855499f90ec0180d6a75059a9d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/falconry/pecyn/commit/fedf8e5af5835477dfc468639ac046674bf8ed2d",

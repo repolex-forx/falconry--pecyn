@@ -1,0 +1,7 @@
+[2026-10-20T23:08:39Z] === AST ITERATION 1 START | repo=falconry/pecyn sha=fef93331 ===
+[2026-10-20T23:08:39Z] [iter=1] PHASE START: ast repo=falconry/pecyn sha=fef93331
+[2026-10-20T23:08:39Z] [iter=1] Building AST aggregate chunks
+[2026-10-20T23:08:39Z] [iter=1] AST chunks built count=1 triples=6507
+[2026-10-20T23:08:39Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/fef9333136c717855499f90ec0180d6a75059a9d/.complete
+[2026-10-20T23:08:39Z] [iter=1] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-10-20T23:08:39Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
